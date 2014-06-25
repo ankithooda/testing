@@ -1,0 +1,3 @@
+this has some text in it.
+
+this text was added after adding this file to index
